@@ -10,3 +10,6 @@ twitch cloneでやったことと大体かぶる
 
 # Footer
 https://flagpack.xyz/
+
+# Main Layout
+lgを使ってwindowが大きい時とそうでない時によってレイアウトを分ける
