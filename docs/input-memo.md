@@ -4,3 +4,9 @@
 # Marketing Skeleton
 layout.tsxは同ディレクトリのpage.tsx全てにかかる
 ディレクトリ名を括弧で囲うとパスに表示されない
+
+# Authentication
+twitch cloneでやったことと大体かぶる
+
+# Footer
+https://flagpack.xyz/
