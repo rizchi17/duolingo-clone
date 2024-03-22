@@ -27,3 +27,11 @@ clientで動くJS+HTML
 
 devToolのsourcesで中身が見れるので(全く同じものではないが)、client側に送られるコードは見られると思って書く
 大事なkeyとかはclient側に書いてはいけない
+
+# Learn Page Wrappers
+Propsのところで
+activeCourse: { imageSrc: string; title: string };
+のような書き方ができる
+
+使う時は
+src={activeCourse.imageSrc}
