@@ -38,11 +38,11 @@ src={activeCourse.imageSrc}
 
 # Drizzle $ Neon
 
-### Neon
+## Neon
 https://neon.tech/
 Neon is fully managed serverless Postgres.
 
-### Drizzle
+## Drizzle
 https://orm.drizzle.team/
 Drizzle ORM is a lightweight TypeScript ORM.
 
@@ -50,5 +50,5 @@ Drizzle ORM is a lightweight TypeScript ORM.
 オブジェクト指向プログラミングと関係データベースの互換性を向上させるために設計されたプログラミング技術
 
 
-# .tsxと.tsの違い
+### .tsxと.tsの違い
 https://qiita.com/y-hira18/items/f67cfc45a70c7c25708a
