@@ -54,3 +54,16 @@ Drizzle ORM is a lightweight TypeScript ORM.
 https://qiita.com/y-hira18/items/f67cfc45a70c7c25708a
 
 # Courses Page
+
+# User Progress
+
+# Seed Script
+
+## Bun
+https://bun.sh/
+新しいJavaScriptのランタイム
+Node.jsやDenoと同じポジション
+速くてAll in OneなJavaScriptランタイム
+
+## schema
+データベースの構造を定義したもの
