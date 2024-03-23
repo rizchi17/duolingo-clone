@@ -21,7 +21,7 @@ export const List = ({ courses, activeCourseId }: Props) => {
           disabled={false}
           active={course.id === activeCourseId}
         ></Card>
-      ))}{" "}
+      ))}
     </div>
   );
 };

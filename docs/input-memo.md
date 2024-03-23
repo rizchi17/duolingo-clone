@@ -52,3 +52,5 @@ Drizzle ORM is a lightweight TypeScript ORM.
 
 ### .tsxと.tsの違い
 https://qiita.com/y-hira18/items/f67cfc45a70c7c25708a
+
+# Courses Page
