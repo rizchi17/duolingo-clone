@@ -65,5 +65,11 @@ https://bun.sh/
 Node.jsやDenoと同じポジション
 速くてAll in OneなJavaScriptランタイム
 
-# schema
+# Schema
 データベースの構造を定義したもの
+
+# Units
+
+今更
+npx drizzle-kit studio : 起動
+npx drizzle-kit push:pg : schemaの変更をしたり
