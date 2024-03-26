@@ -75,3 +75,12 @@ npx drizzle-kit studio : 起動
 npx drizzle-kit push:pg : schemaの変更をしたり
 
 # Lesson Button
+
+# Course Progress
+ASC・・・昇順
+DESC・・・降順
+
+flatMap
+flatMap()はmap()とflat()を合成したメソッド
+
+flat()は配列のメソッドで、自身の配列の次元を1つ下げたものを返す
