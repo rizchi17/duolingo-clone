@@ -84,3 +84,5 @@ flatMap
 flatMap()はmap()とflat()を合成したメソッド
 
 flat()は配列のメソッドで、自身の配列の次元を1つ下げたものを返す
+
+# Lesson Header
