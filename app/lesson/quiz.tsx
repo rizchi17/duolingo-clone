@@ -5,6 +5,7 @@ import { headers } from "next/headers";
 import { useState } from "react";
 import { Header } from "./header";
 import { QuestionBubble } from "./question-bubble";
+import { Challenge } from "./challenge";
 
 type Props = {
   initialPercentage: number;
@@ -35,6 +36,7 @@ export const Quiz = ({
   });
 
   const challenge = challenges[activeIndex];
+  const options = challenge?.challengeOptions ?? [];
 
   const title =
     challenge.type === "ASSIST"
@@ -54,10 +56,17 @@ export const Quiz = ({
               {title}
             </h1>
             <div>
-              {/*TODO: change back to type ASSIST */}
-              {challenge.type === "SELECT" && (
+              {challenge.type === "ASSIST" && (
                 <QuestionBubble question={challenge.question}></QuestionBubble>
               )}
+              <Challenge
+                options={options}
+                onSelect={() => {}}
+                status="none"
+                selectedOption={undefined}
+                disabled={false}
+                type={challenge.type}
+              ></Challenge>
             </div>
           </div>
         </div>
