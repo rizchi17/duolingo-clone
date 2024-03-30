@@ -93,3 +93,14 @@ flat()は配列のメソッドで、自身の配列の次元を1つ下げたも�
 Tailwindowのcnを使って条件に応じたCSSを指定できる
 
 # Challenge Footer
+
+# Challenge Actions
+
+!! : 二重否定
+- 真偽値を反転させる
+- 条件分岐の簡略化
+- null, undefinedのチェック
+
+!!値はBoolean(値)と同じ
+
+https://senews.jp/bikkuri-2/
