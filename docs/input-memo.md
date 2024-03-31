@@ -104,3 +104,10 @@ Tailwindowのcnを使って条件に応じたCSSを指定できる
 !!値はBoolean(値)と同じ
 
 https://senews.jp/bikkuri-2/
+
+# Challenge Finish Screen
+
+# Challenge Practice
+_ : プライベート
+() : パスに表示されなくなる
+[] : 変数がパスの値になる
