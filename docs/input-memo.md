@@ -111,3 +111,9 @@ https://senews.jp/bikkuri-2/
 _ : プライベート
 () : パスに表示されなくなる
 [] : 変数がパスの値になる
+
+# Shop
+
+# Stripe
+https://qiita.com/ishidao/items/769b2e9acfc2ce4542b6
+https://god48.com/zsh-pat:h
